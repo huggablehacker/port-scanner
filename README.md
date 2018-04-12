@@ -1,1 +1,1 @@
-# ports-canner
+# port-scanner
